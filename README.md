@@ -13,10 +13,7 @@ We compare two model types:
 * **Selective State Space Model (SSM)**
 * **LSTM (Recurrent Neural Network)**
 
-These models are evaluated on well-known benchmarks:
-
-* Wiener–Hammerstein (WH)
-* Silverbox
+These models are evaluated on well-known benchmarks.
 
 ---
 
