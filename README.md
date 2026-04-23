@@ -186,20 +186,20 @@ sample-identibench/
 ├── model/
 │   ├── dss.py              # SSM implementation
 │   ├── lstm.py             # LSTM model
-│   ├── lstm_wrapper.py     # LSTM utilities
-│   └── trainer.py          # Training logic
+│   ├── lstm_wrapper.py     
+│   └── trainer.py          
 │
 ├── utils/
 │   ├── preprocessing.py
 │   └── seed.py
 │
-├── configs.py              # Hyperparameters
-├── main.py                 # Entry point
+├── configs.py              
+├── main.py                 
 ├── README.md
 └── requirements.txt
 ```
 
----
+
 
 ## 🎯 Conclusion
 
