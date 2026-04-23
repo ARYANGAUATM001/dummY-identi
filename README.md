@@ -10,7 +10,7 @@ This project applies machine learning techniques to **nonlinear system identific
 
 IdentiBench is a benchmarking framework for system identification that provides:
 
-* Standard datasets (e.g., cascaded tanks)
+* Standard datasets 
 * Unified training and evaluation pipeline
 * Consistent performance metrics
 
