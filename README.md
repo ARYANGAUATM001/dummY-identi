@@ -141,10 +141,4 @@ The model was evaluated across multiple IdentiBench tasks. The output metrics su
 
 * IdentiBench Benchmark Framework
 * PyTorch Documentation
-  
 
----
-
-## 👨‍💻 Author
-
-* Your Name
