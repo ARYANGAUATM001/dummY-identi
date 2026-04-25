@@ -4,7 +4,6 @@ This project implements and benchmarks different models for **nonlinear system i
 
 The goal is to evaluate how different model architectures perform on standard benchmark datasets and to understand the trade-offs between **model complexity, accuracy, and efficiency**.
 
----
 
 ## 📌 Overview
 
