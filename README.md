@@ -1,4 +1,4 @@
-# 🚀 System Identification Benchmark using IdentiBench
+#  System Identification Benchmark using IdentiBench
 
 This project implements and benchmarks different models for **nonlinear system identification** using the **IdentiBench** framework.
 
